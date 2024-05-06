@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ozBVGtBs6PjuhbmLk/FvMiEaC4vytmvKie7PKjnuKZi21sRMHmbkQnuNp/yvDmAO1eoH6hAnFumaq6C/SRCzEQ==",
+  "dgSpecHash": "XfygTxYu7UoqxF7z+hLOFLBDwDPe1NGh2x79tO71EsgHLuD3AEAje8ejR6vusG3JH6sRSwUJqKByhl/iIGiWqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MAX\\RiderProjects\\WarehouseProject\\WarehouseProject\\WarehouseProject.csproj",
+  "projectFilePath": "C:\\Users\\MAX\\Desktop\\WarehouseProject\\WarehouseProject\\WarehouseProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAX\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\MAX\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

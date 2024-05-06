@@ -19,7 +19,7 @@ public class ProductController : ControllerBase
     }
 
 
-    [HttpPut]
+    [HttpPost]
     public async Task<IActionResult> AddProductToWarehouse(ProductWarehouse productWarehouse)
     {
 
@@ -49,7 +49,7 @@ public class ProductController : ControllerBase
     }
 
 
-    [HttpPut]
+    [HttpPost]
     [Route("Dodaj prze Proc")]
     public async Task<IActionResult> AddProductViaProcedure(int IdProduct , int IdWarehouse , int Amount , DateTime CreatedAt)
     {

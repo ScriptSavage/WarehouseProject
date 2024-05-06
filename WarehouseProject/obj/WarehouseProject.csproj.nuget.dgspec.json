@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAX\\RiderProjects\\WarehouseProject\\WarehouseProject\\WarehouseProject.csproj": {}
+    "C:\\Users\\MAX\\Desktop\\WarehouseProject\\WarehouseProject\\WarehouseProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAX\\RiderProjects\\WarehouseProject\\WarehouseProject\\WarehouseProject.csproj": {
+    "C:\\Users\\MAX\\Desktop\\WarehouseProject\\WarehouseProject\\WarehouseProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAX\\RiderProjects\\WarehouseProject\\WarehouseProject\\WarehouseProject.csproj",
+        "projectUniqueName": "C:\\Users\\MAX\\Desktop\\WarehouseProject\\WarehouseProject\\WarehouseProject.csproj",
         "projectName": "WarehouseProject",
-        "projectPath": "C:\\Users\\MAX\\RiderProjects\\WarehouseProject\\WarehouseProject\\WarehouseProject.csproj",
+        "projectPath": "C:\\Users\\MAX\\Desktop\\WarehouseProject\\WarehouseProject\\WarehouseProject.csproj",
         "packagesPath": "C:\\Users\\MAX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAX\\RiderProjects\\WarehouseProject\\WarehouseProject\\obj\\",
+        "outputPath": "C:\\Users\\MAX\\Desktop\\WarehouseProject\\WarehouseProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAX\\AppData\\Roaming\\NuGet\\NuGet.Config",
